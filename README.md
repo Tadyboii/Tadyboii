@@ -79,7 +79,10 @@
 
 ###
 
-<p align="left">Portfolio</p>
+<p align="center">
+  <h3 href="https://tadyboii.github.io/profile" target="_blank">PORTFOLIO</h3>
+</p>
+
 
 ###
 
