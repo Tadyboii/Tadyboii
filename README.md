@@ -79,9 +79,9 @@
 
 ###
 
-<p align="center">
-  <h3 href="https://tadyboii.github.io/profile" target="_blank">PORTFOLIO</h3>
-</p>
+<h3 align="center">
+  <a href="https://tadyboii.github.io/profile" target="_blank">PORTFOLIO</a>
+</h3>
 
 
 ###
