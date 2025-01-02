@@ -65,9 +65,13 @@
 ###
 
 [![Facebook](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg)](https://www.facebook.com/thaddeus.rosales.7/)
+{ width="52" height="40" }
 [![Instagram](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg)](https://www.instagram.com/tadyboii/)
+{ width="52" height="40" }
 [![Twitter](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg)](https://x.com/tadyboii)
+{ width="52" height="40" }
 [![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com)
+{ width="52" height="40" }
 
 
 ###
