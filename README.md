@@ -16,11 +16,11 @@
 
 ###
 
-<p align="center">Web Development</p>
+<p>Web Development</p>
 
 ###
 
-<div align="center">
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="35" alt="html5 logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="35" alt="css3 logo"  />
@@ -32,11 +32,11 @@
 
 ###
 
-<p align="center">Android Development</p>
+<p>Android Development</p>
 
 ###
 
-<div align="center">
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35" alt="flutter logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="35" alt="androidstudio logo"  />
@@ -46,11 +46,11 @@
 
 ###
 
-<p align="center">Backend Development</p>
+<p>Backend Development</p>
 
 ###
 
-<div align="center">
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="35" alt="postgresql logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="35" alt="docker logo"  />
@@ -64,7 +64,7 @@
 
 ###
 
-<div align="center">
+<div>
   <a href="https://www.facebook.com/thaddeus.rosales.7/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" />
   </a>
@@ -81,7 +81,7 @@
 
 ###
 
-<h3 align="center">
+<h3>
   <a href="https://tadyboii.github.io/profile" target="_blank">PORTFOLIO</a>
 </h3>
 
@@ -92,7 +92,7 @@
 
 ###
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tadyboii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tadyboii&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
