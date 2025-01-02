@@ -64,22 +64,20 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.facebook.com/thaddeus.rosales.7/" target="_blank" style="display: inline-block; width: 52px; height: 40px; text-align: center;">
+<div>
+  <a href="https://www.facebook.com/thaddeus.rosales.7/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" />
   </a>
-  <a href="https://www.instagram.com/tadyboii/" target="_blank" style="display: inline-block; width: 52px; height: 40px; text-align: center;">
+  <a href="https://www.instagram.com/tadyboii/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" />
   </a>
-  <a href="https://x.com/tadyboii" target="_blank" style="display: inline-block; width: 52px; height: 40px; text-align: center;">
+  <a href="https://x.com/tadyboii" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" />
   </a>
-  <a href="https://www.linkedin.com" target="_blank" style="display: inline-block; width: 52px; height: 40px; text-align: center;">
+  <a href="https://www.linkedin.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" />
   </a>
 </div>
-
-
 
 ###
 
