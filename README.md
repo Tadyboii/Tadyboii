@@ -64,7 +64,7 @@
 
 ###
 
-<div>
+<div align="center">
   <a href="https://www.facebook.com/thaddeus.rosales.7/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" />
   </a>
