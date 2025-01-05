@@ -82,7 +82,8 @@
 ###
 
 <h3>
-  <a href="https://tadyboii.github.io/profile" target="_blank">PORTFOLIO</a>
+  <p>Check my portfolio </p>
+  <a href="https://tadyboii.github.io/profile" target="_blank">website</a>
 </h3>
 
 
