@@ -3,9 +3,9 @@
 ###
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="30">
-  <strong>Computer Engineer | Software Developer | Robotics Enthusiast</strong>
-  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="30">
+  <img src="https://img.shields.io/badge/Computer_Engineer-%237A9ABF?style=for-the-badge" alt="Computer Engineer">
+  <img src="https://img.shields.io/badge/Software_Developer-%23606060?style=for-the-badge" alt="Software Developer">
+  <img src="https://img.shields.io/badge/Robotics_Enthusiast-%237A9ABF?style=for-the-badge" alt="Robotics Enthusiast">
 </p>
 
 ###
