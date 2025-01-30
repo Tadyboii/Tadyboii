@@ -3,9 +3,7 @@
 ###
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Computer_Engineer-%230077B5?style=for-the-badge" alt="Computer Engineer">
-  <img src="https://img.shields.io/badge/Software_Developer-%2300BFFF?style=for-the-badge" alt="Software Developer">
-  <img src="https://img.shields.io/badge/Robotics_Enthusiast-%23FFA500?style=for-the-badge" alt="Robotics Enthusiast">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Computer+Engineer;Software+Developer;Robotics+Enthusiast" alt="Typing Effect">
 </p>
 
 ###
