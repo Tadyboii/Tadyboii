@@ -3,7 +3,9 @@
 ###
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Computer+Engineer;Software+Developer;Robotics+Enthusiast" alt="Typing Effect">
+  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="30">
+  <strong>Computer Engineer | Software Developer | Robotics Enthusiast</strong>
+  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="30">
 </p>
 
 ###
