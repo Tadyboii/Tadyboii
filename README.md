@@ -11,7 +11,9 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tadyboii&theme=deepblue&hide_border=false" alt="GitHub Streak Stats">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Tadyboii&theme=github-dark-blue" alt="GitHub Streak" />
+  </a>
 </p>
 
 ###
