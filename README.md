@@ -49,7 +49,7 @@
 
 <p align="center">
   <a href="https://tadyboii.github.io/profile" target="_blank">
-    <img src="https://img.shields.io/badge/🚀 Portfolio-%230077B5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/📁 Portfolio-%230077B5?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
