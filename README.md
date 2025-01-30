@@ -12,10 +12,6 @@
 
 ###
 
-<h2 align="left">Software Proficiencies</h2>
-
-###
-
 <table align="center">
   <tr>
     <th>Web Development</th>
@@ -51,13 +47,11 @@
 
 ###
 
-<h2 align="left">Social & Contact</h2>
-
-###
-
-<h3>
-  <a href="https://tadyboii.github.io/profile" target="_blank">Portfolio</a>
-</h3>
+<p align="center">
+  <a href="https://tadyboii.github.io/profile" target="_blank">
+    <img src="https://img.shields.io/badge/🚀 Portfolio-%230077B5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 
 ###
