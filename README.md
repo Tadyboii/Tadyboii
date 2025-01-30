@@ -10,7 +10,9 @@
 
 ###
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Tadyboii&theme=transparent" alt="GitHub Streak" /></a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tadyboii&theme=dark&hide_border=false" alt="GitHub Streak Stats">
+</p>
 
 ###
 
