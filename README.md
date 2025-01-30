@@ -3,7 +3,9 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tadyboii&theme=dark&hide_border=false" alt="GitHub Streak Stats">
+  <img src="https://img.shields.io/badge/Computer_Engineer-%234A76A8?style=for-the-badge" alt="Computer Engineer">
+  <img src="https://img.shields.io/badge/Software_Developer-%234A4A4A?style=for-the-badge" alt="Software Developer">
+  <img src="https://img.shields.io/badge/Robotics_Enthusiast-%234A76A8?style=for-the-badge" alt="Robotics Enthusiast">
 </p>
 
 ###
