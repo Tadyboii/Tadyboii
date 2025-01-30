@@ -10,7 +10,9 @@
 
 ###
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tadyboii&theme=github-dark-blue)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tadyboii&theme=dark&hide_border=false" alt="GitHub Streak Stats">
+</p>
 
 ###
 
