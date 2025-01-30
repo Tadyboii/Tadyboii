@@ -2,7 +2,11 @@
 
 ###
 
-<p align="center">Computer Engineer | Software Developer | Robotics Enthusiast</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Computer_Engineer-%230077B5?style=for-the-badge" alt="Computer Engineer">
+  <img src="https://img.shields.io/badge/Software_Developer-%2300BFFF?style=for-the-badge" alt="Software Developer">
+  <img src="https://img.shields.io/badge/Robotics_Enthusiast-%23FFA500?style=for-the-badge" alt="Robotics Enthusiast">
+</p>
 
 ###
 
@@ -49,7 +53,7 @@
 
 <p align="center">
   <a href="https://tadyboii.github.io/profile" target="_blank">
-    <img src="https://img.shields.io/badge/📁 Portfolio-%230077B5?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-%230077B5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
