@@ -62,25 +62,8 @@
 
 ###
 
-<div>
-  <a href="https://www.facebook.com/thaddeus.rosales.7/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" />
-  </a>
-  <a href="https://www.instagram.com/tadyboii/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" />
-  </a>
-  <a href="https://x.com/tadyboii" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" />
-  </a>
-  <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" />
-  </a>
-</div>
-
-###
-
 <h3>
-  <a href="https://tadyboii.github.io/profile" target="_blank">Check my portfolio website</a>
+  <a href="https://tadyboii.github.io/profile" target="_blank">Portfolio</a>
 </h3>
 
 
