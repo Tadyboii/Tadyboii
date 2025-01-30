@@ -3,9 +3,9 @@
 ###
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Computer_Engineer-%237A9ABF?style=for-the-badge" alt="Computer Engineer">
-  <img src="https://img.shields.io/badge/Software_Developer-%23606060?style=for-the-badge" alt="Software Developer">
-  <img src="https://img.shields.io/badge/Robotics_Enthusiast-%237A9ABF?style=for-the-badge" alt="Robotics Enthusiast">
+  <img src="https://img.shields.io/badge/Computer_Engineer-%234A76A8?style=for-the-badge" alt="Computer Engineer">
+  <img src="https://img.shields.io/badge/Software_Developer-%234A4A4A?style=for-the-badge" alt="Software Developer">
+  <img src="https://img.shields.io/badge/Robotics_Enthusiast-%234A76A8?style=for-the-badge" alt="Robotics Enthusiast">
 </p>
 
 ###
@@ -53,6 +53,6 @@
 
 <p align="center">
   <a href="https://tadyboii.github.io/profile" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%237A9ABF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-%234A76A8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
