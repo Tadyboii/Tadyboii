@@ -45,8 +45,8 @@
 
 ###
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://tadyboii.github.io/profile" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%234A76A8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-</p>
+</p> -->
